@@ -1,5 +1,4 @@
 ##PERSONAL PORTFOLIO AND BIO
-
 This is my first IP in Moringa school and talking about my self in portfolio
 created on, 15/03/2019
 By *Zubeyr Abubakar*
@@ -8,9 +7,7 @@ Here is a live working demo https://zubeyr-Abubakar.github.io/portofolio/
 
 Description
 This portfolio entails most details about me. It includes my name, education background, reasons why I got into programming and my interests and hobbies.
-
 ##Setup/Installation Requirements
-
 Enter the url provided and it will direct you to my portfolio.
 
 ##Known Bugs
